@@ -5,10 +5,10 @@
 #include <pkcs11.h>
 
 // Token User PIN
-#define USER_PIN "1234"
+#define USER_PIN "0000"
 
 // Slot number
-#define SLOT 388273165
+#define SLOT 1973656586
 
 // SoftHSM Module Path
 #define MODULE_PATH "/opt/homebrew/opt/softhsm/lib/softhsm/libsofthsm2.so"

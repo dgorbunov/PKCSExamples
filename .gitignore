@@ -2,3 +2,5 @@
 digest
 *.o
 .vscode
+.venv
+.idea
